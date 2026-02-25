@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0d2137,100:16213e&height=200&section=header&fontSize=10&fontColor=00d4ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a00,70:002800,100:003300&height=200&section=header&fontSize=10&fontColor=00ff41&animation=fadeIn" />
 
 </div>
 
@@ -59,20 +59,20 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=+%3E+whoami+%3A%3A+Software+Engineering+Student+%7C+Flutter+Dev;+%3E+applying+%3A%3A+Flutter+Developer+Internship;+%3E+location+%3A%3A+Phnom+Penh%2C+Cambodia+%5BKH%5D;+%3E+status+%3A%3A+Building+DasTern+%7C+DerLg+%7C+RayuOS;+%3E+philosophy+%3A%3A+Consistency+beats+talent.+Impact+beats+theory." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FF41&center=true&vCenter=true&random=false&width=800&lines=+%3E+whoami+%3A%3A+Software+Engineering+Student+%7C+Flutter+Dev;+%3E+applying+%3A%3A+Flutter+Developer+Internship;+%3E+location+%3A%3A+Phnom+Penh%2C+Cambodia+%5BKH%5D;+%3E+status+%3A%3A+Building+DasTern+%7C+DerLg+%7C+RayuOS;+%3E+philosophy+%3A%3A+Consistency+beats+talent.+Impact+beats+theory." alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/_%40_-rayu--choeng.tech-00d4ff?style=for-the-badge&labelColor=0d1117)](https://www.rayu-choeng.tech)
-[![LinkedIn](https://img.shields.io/badge/in%2F-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/YOUR_PROFILE)
+[![Website](https://img.shields.io/badge/_%40_-rayu--choeng.tech-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.rayu-choeng.tech)
+[![LinkedIn](https://img.shields.io/badge/in%2F-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/rayu-choeng-351243335/)
 [![Telegram](https://img.shields.io/badge/%3E%3E-@President__Alien-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/President_Alien)
 [![Email](https://img.shields.io/badge/_%40_-choengray307-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:choengray307@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Choeng-Rayu&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-![Status](https://img.shields.io/badge/(-v-)-Seeking_Flutter_Internship-00ff88?style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Choeng-Rayu&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/(-v-)-Seeking_Flutter_Internship-00ff41?style=for-the-badge&labelColor=0d1117)
 ![DOB](https://img.shields.io/badge/born-Mar_27_2005-ff9f43?style=for-the-badge&labelColor=0d1117)
 
 </div>
@@ -223,7 +223,7 @@ STACK : Next.js | React | Node.js | MySQL | Digital Ocean
 \*-------------------------------------------------------------*/
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=00FF88&center=true&vCenter=true&width=560&lines=%24+ls+-la+%7C+grep+'active'...+Loading+projects...;DasTern+|+DerLg+|+RayuOS+|+HybridCoffee+|+MathBot" alt="projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=00FF41&center=true&vCenter=true&width=560&lines=%24+ls+-la+%7C+grep+'active'...+Loading+projects...;DasTern+|+DerLg+|+RayuOS+|+HybridCoffee+|+MathBot" alt="projects"/>
 
 </div>
 
@@ -426,12 +426,12 @@ SKILL PROFICIENCY  ::  $ rayu --skills --verbose
 \*-------------------------------------------------------------*/
 ```
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Choeng-Rayu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choeng-Rayu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Choeng-Rayu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=b0ffb0&icon_color=00ff41"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choeng-Rayu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=b0ffb0"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Choeng-Rayu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Choeng-Rayu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Choeng-Rayu&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Choeng-Rayu&theme=tokyo-night&bg_color=0d1117&color=00ff41&line=00ff41&point=39ff14&area=true&hide_border=true" />
 
 </div>
 
@@ -513,7 +513,7 @@ const CHOENG_RAYU = {
 
 [![(tel)](https://img.shields.io/badge/(tel)-+855_96_983_479-25D366?style=for-the-badge&labelColor=0d1117)](tel:+85596983479)
 [![[@]](https://img.shields.io/badge/%5B%40%5D-choengray307%40gmail.com-EA4335?style=for-the-badge&labelColor=0d1117)](mailto:choengray307@gmail.com)
-[![[www]](https://img.shields.io/badge/%5Bwww%5D-rayu--choeng.tech-00d4ff?style=for-the-badge&labelColor=0d1117)](https://www.rayu-choeng.tech)
+[![[www]](https://img.shields.io/badge/%5Bwww%5D-rayu--choeng.tech-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.rayu-choeng.tech)
 [![[>>]](https://img.shields.io/badge/%5B%3E%3E%5D-@President__Alien-2CA5E0?style=for-the-badge&labelColor=0d1117)](https://t.me/President_Alien)
 
 ```yaml
@@ -546,6 +546,6 @@ approach      : "Show me the problem -- I'll build the solution  :-)"
 +=========================================================+
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0d2137,100:0d1117&height=130&section=footer&text=~!~+CHOENG+RAYU+~!~&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlignY=65&desc=S.E.+Student+%7C+Flutter+Developer+%7C+AI+Builder+%7C+%5BKH%5D&descAlignY=90&descColor=a0c4ff&descSize=13"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:001a00,100:0d1117&height=130&section=footer&text=~!~+CHOENG+RAYU+~!~&fontSize=22&fontColor=00ff41&animation=fadeIn&fontAlignY=65&desc=S.E.+Student+%7C+Flutter+Developer+%7C+AI+Builder+%7C+%5BKH%5D&descAlignY=90&descColor=39ff14&descSize=13"/>
 
 </div>
