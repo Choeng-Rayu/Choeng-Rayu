@@ -1,290 +1,551 @@
-# 👋 Hi, I'm **Rayu Choeng**
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0d2137,100:16213e&height=200&section=header&fontSize=10&fontColor=00d4ff&animation=fadeIn" />
+
+</div>
 
 <div align="center">
-  
-<pre>
-<span style="color: #00ff41;"> ██████╗██╗  ██╗ ██████╗ ███████╗███╗   ██╗ ██████╗     ██████╗  █████╗ ██╗   ██╗██╗   ██╗</span>
-<span style="color: #00ff41;">██╔════╝██║  ██║██╔═══██╗██╔════╝████╗  ██║██╔════╝     ██╔══██╗██╔══██╗╚██╗ ██╔╝██║   ██║</span>
-<span style="color: #00e436;">██║     ███████║██║   ██║█████╗  ██╔██╗ ██║██║  ███╗    ██████╔╝███████║ ╚████╔╝ ██║   ██║</span>
-<span style="color: #00c92b;">██║     ██╔══██║██║   ██║██╔══╝  ██║╚██╗██║██║   ██║    ██╔══██╗██╔══██║  ╚██╔╝  ██║   ██║</span>
-<span style="color: #00ae20;">╚██████╗██║  ██║╚██████╔╝███████╗██║ ╚████║╚██████╔╝    ██║  ██║██║  ██║   ██║   ╚██████╔╝</span>
-<span style="color: #009315;"> ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ </span>
-</pre>
 
 <pre>
-<span style="color: #0af;"> __        __   _                            </span>
-<span style="color: #0af;"> \ \      / /__| | ___ ___  _ __ ___   ___  </span>
-<span style="color: #09d;">  \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ </span>
-<span style="color: #08c;">   \ V  V /  __/ | (_| (_) | | | | | |  __/ </span>
-<span style="color: #07b;">    \_/\_/ \___|_|\___\___/|_| |_| |_|\___| </span>
-<span style="color: #06a;">                                             </span>
+  ______  __  __   ______   ______   __   __   ______
+ /\  ___\/\ \_\ \ /\  __ \ /\  ___\ /\ "-.\ \ /\  ___\
+ \ \ \___\ \  __ \\ \ \/\ \\ \  __\ \ \ \-.  \\ \ \__ \
+  \ \_____\ \_\ \_\\ \_____\\ \_____\\ \_\\"\_\\ \_____\
+   \/_____/\/_/\/_/ \/_____/ \/_____/ \/_/ \/_/ \/_____/
+
+  ______   ______   __  __   __  __
+ /\  == \ /\  __ \ /\ \_\ \ /\ \/\ \
+ \ \  __< \ \  __ \\ \____ \\ \ \_\ \
+  \ \_\ \_\\ \_\ \_\\/\_____\\ \_____\
+   \/_/ /_/ \/_/\/_/ \/_____/ \/_____/
 </pre>
 
-### 💻 Software Engineering Student | 🚀 Tech Builder | 🇰🇭 Cambodia
+</div>
 
-[![Location](https://img.shields.io/badge/Location-Cambodia-red?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Cambodia)
-[![University](https://img.shields.io/badge/University-CADT-blue?style=for-the-badge&logo=graduation-cap)](https://cadt.edu.kh)
-[![Year](https://img.shields.io/badge/Year-3-green?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Open_to_Internships-brightgreen?style=for-the-badge)]()
+<div align="center">
+
+<pre>
++================================================================================+
+||                                                                              ||
+||   .d8888b.  888    888  .d88888b.  8888888888 888b    888  .d8888b.          ||
+||  d88P  Y88b 888    888 d88P" "Y88b 888        8888b   888 d88P  Y88b         ||
+||  888    888 888    888 888     888 888        88888b  888 888    888         ||
+||  888        8888888888 888     888 8888888    888Y88b 888 888                ||
+||  888        888    888 888     888 888        888 Y88b888 888  88888         ||
+||  888    888 888    888 888     888 888        888  Y88888 888    888         ||
+||  Y88b  d88P 888    888 Y88b. .d88P 888        888   Y8888 Y88b  d88P         ||
+||   "Y8888P"  888    888  "Y88888P"  8888888888 888    Y888  "Y8888P88         ||
+||                                                                              ||
+||   8888888b.         d8888 Y88b   d88P 888     888                            ||
+||   888   Y88b       d88888  Y88b d88P  888     888                            ||
+||   888    888      d88P888   Y88o88P   888     888                            ||
+||   888   d88P     d88P 888    Y888P    888     888                            ||
+||   8888888P"     d88P  888    d888b    888     888                            ||
+||   888 T88b     d88P   888   d88888b   888     888                            ||
+||   888  T88b   d8888888888  d88P Y88b  Y88b. .d88P                            ||
+||   888   T88b d88P     888 d88P   Y88b  "Y88888P"                             ||
+||                                                                              ||
++================================================================================+
+|                                                                                |
+|   [*]  Software Engineering Student  --  Year 3  @  CADT  [KH]                 |
+|   [>]  Applying For : Flutter Developer Internship                             |
+|   [~]  Also Builds  : Full Stack Web | AI Apps | Linux OS                      |
+|                                                                                |
++================================================================================+
+</pre>
+
+</div>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=+%3E+whoami+%3A%3A+Software+Engineering+Student+%7C+Flutter+Dev;+%3E+applying+%3A%3A+Flutter+Developer+Internship;+%3E+location+%3A%3A+Phnom+Penh%2C+Cambodia+%5BKH%5D;+%3E+status+%3A%3A+Building+DasTern+%7C+DerLg+%7C+RayuOS;+%3E+philosophy+%3A%3A+Consistency+beats+talent.+Impact+beats+theory." alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Website](https://img.shields.io/badge/_%40_-rayu--choeng.tech-00d4ff?style=for-the-badge&labelColor=0d1117)](https://www.rayu-choeng.tech)
+[![LinkedIn](https://img.shields.io/badge/in%2F-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/YOUR_PROFILE)
+[![Telegram](https://img.shields.io/badge/%3E%3E-@President__Alien-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/President_Alien)
+[![Email](https://img.shields.io/badge/_%40_-choengray307-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:choengray307@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Choeng-Rayu&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/(-v-)-Seeking_Flutter_Internship-00ff88?style=for-the-badge&labelColor=0d1117)
+![DOB](https://img.shields.io/badge/born-Mar_27_2005-ff9f43?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ---
 
-## 🎯 Mission Statement
-
-```javascript
-const rayu = {
-    mission: "Turning real-life problems into practical digital solutions",
-    mindset: "I don't just learn technology — I apply it",
-    philosophy: "Consistency beats talent. Impact beats theory."
-};
-```
-
----
-
-## 🌱 About Me
-
-> **Hands-on software engineering student** driven by curiosity, discipline, and purpose.  
-> Coming from a financially challenged family, I see **education and technology as tools for change** — not just for myself, but for my community.
-
-```bash
-$ whoami
-└─> Rayu Choeng
-
-$ cat profile.txt
-├─ 🔍 Curious about how systems work and how to improve them
-├─ 🛠️ Love building real, usable software
-├─ 🌍 Focused on local impact with scalable ideas
-└─ 🤝 Active in volunteering, events, and youth development
-```
-
----
-
-## 🧠 Core Interests
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-| 💊 Health Technology | 💰 FinTech & Financial Literacy |
-|:---:|:---:|
-| 🤖 **Robotics & Automation** | 🏙️ **Smart Cities & Urban Digital Design** |
-| 🚗 **Automotive & Mechanical Systems** | 🌐 **Scalable Digital Solutions** |
+```
+/*-------------------------------------------------------------*\
+||                                                             ||
+||    >>>  SYSTEM  IDENTITY  <<<                               ||
+||    $ cat /etc/rayu.conf                                     ||
+||                                                             ||
+\*-------------------------------------------------------------*/
+```
 
 </div>
 
+<table>
+<tr>
+<td width="52%">
+
+```yaml
+# /etc/rayu.conf
+# --------------------------------------
+
+user:
+  name    : "Choeng Rayu"
+  handle  : "@President_Alien"
+  role    : "Software Engineering Student  |  Flutter Developer"
+  seeking : "Flutter Developer Internship"
+  location: "Porsentchey, Phnom Penh [KH]"
+  website : "rayu-choeng.tech"
+
+university:
+  name: "CADT"
+  full: "Cambodia Academy of Digital Technology"
+  prog: "Software Engineering"
+  year: 3
+
+passions:
+  - name : "Health Technology"
+    proj : "DasTern"        # [+] active
+  - name : "Smart Travel AI"
+    proj : "DerLg"          # >-> active
+  - name : "FinTech"
+    proj : "Finwise"        # [$] growing
+  - name : "AI Apps"
+    proj : "MathBot"        # [^] live
+  - name : "OS Engineering"
+    proj : "RayuOS"         # [os] open-src
+
+mindset: "I don't just learn tech -- I apply it"
+```
+
+</td>
+<td width="48%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding"/>
+
+<br/>
+
+```
+.----------------------------------------.
+|  "From challenges come opportunities.  |
+|       From code comes change."         |
+|                                        |
+|    -- Choeng Rayu  ( :-) )             |
+|       Building [KH] tech that matters  |
+'----------------------------------------'
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 👨‍💻 Programming Languages
-```javascript
-const languages = ['Java', 'C++', 'C', 'JavaScript', 'Node.js'];
+```
+/*-------------------------------------------------------------*\
+||   [==]   E D U C A T I O N   &   T R A I N I N G   [==]     ||
+\*-------------------------------------------------------------*/
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+</div>
 
-### 🌐 Web & App Development
-```javascript
-const webStack = ['React.js', 'HTML5', 'CSS3', 'REST APIs'];
 ```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Tools
-```javascript
-const tools = ['MySQL', 'MongoDB', 'Git', 'GitHub', 'Telegram Bot API', 'Cisco IT'];
++------------------------------------------------------------------+--------+----------+
+|  INSTITUTION                                                     | PROG   | PERIOD   |
++------------------------------------------------------------------+--------+----------+
+|  [KH]  Cambodia Academy of Digital Technology  (CADT)           |  B.Sc  | 2024-now  |
+|        >> Software Engineering -- Year 3                         |        |          |
++------------------------------------------------------------------+--------+----------+
+|  [CN]  Northwestern Polytechnical University, China              |  Algo  | Nov 2025 |
+|        >> Algorithm & Computer Science Program                   |        | (21 days)|
++------------------------------------------------------------------+--------+----------+
+|  [@]   The Capacity Project  (USAID)                             |  Soft  | Nov 2024 |
+|        >> ALCPP Program -- Soft Skills                           | Skills | May 2025 |
++------------------------------------------------------------------+--------+----------+
 ```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
 
 ---
 
-## 🚀 Projects
+<div align="center">
 
-```python
-projects = {
-    "active": [
-        {
-            "name": "Telegram Alarm Bot 🔔",
-            "tech": ["Node.js", "MongoDB"],
-            "description": "Reminder & alert system with database integration"
-        },
-        {
-            "name": "Java E-Commerce Application 🛒",
-            "tech": ["Java", "MySQL", "GUI"],
-            "description": "Console & GUI app with full database integration"
-        },
-        {
-            "name": "School Management System 🏫",
-            "tech": ["C++"],
-            "description": "Automation tools for school operations & billing"
-        },
-        {
-            "name": "Finwise.space 💰",
-            "tech": ["Web", "Telegram Bot", "Freemium Model"],
-            "description": "Financial tracking platform for smart money management"
-        },
-        {
-            "name": "Hybridcoffee.me ☕",
-            "tech": ["Web Platform"],
-            "description": "Digital coffee ordering system"
-        }
-    ],
-    "ideas": [
-        "🚗 Online car wash booking platform",
-        "🛍️ Telegram-based e-commerce ordering system"
-    ]
-}
+```
+/*-------------------------------------------------------------*\
+||   [##]   W O R K   E X P E R I E N C E   [##]               ||
+\*-------------------------------------------------------------*/
 ```
 
-<details>
-<summary>🔥 Featured Project: Finwise.space</summary>
+</div>
 
-### 💰 Financial Tracking Platform
-- **Stack:** Web + Telegram Bot Integration
-- **Model:** Freemium with scalable features
-- **Goal:** Empower Cambodians with financial literacy tools
-- **Status:** In Development
+<details open>
+<summary><b>&nbsp;&nbsp;|>  MoEYS Internship &nbsp;--&nbsp; Ministry of Education, Youth and Sport &nbsp;[ May 2025 -- Dec 2025 ]</b></summary>
+
+<br/>
+
+```
+ROLE  : Full Stack Developer  |  Project Lead
+PLACE : Ministry of Education, Youth and Sport (MoEYS), Cambodia
+
+.---------------------------------------------------------------.
+|  [+]  Full Stack Dev  -->  Life Long Learning (LLL) website   |
+|  [+]  Web Dev         -->  EdTech Cambodia                    |
+|         \_ URL: https://edtechcambodia.org                    |
+|  [+]  Team coordinator for smooth delivery                    |
+'---------------------------------------------------------------'
+STACK : Next.js | React | Node.js | MySQL | Digital Ocean
+```
 
 </details>
 
 ---
 
-## 🌍 Experience & Impact
-
-### 👨‍🏫 Teaching & Mentorship
-```bash
-├─ Math Tutor (Grades 4 & 8)
-└─ Khoding-Hero Volunteer
-   ├─ Led 3-member team
-   └─ Taught Scratch to ~700 students
-```
-
-### 🎤 Event Leadership & Technical Roles
 <div align="center">
 
-| Event | Role |
-|:------|:-----|
-| 🏛️ Digital Government Forum | Technical & Logistics |
-| 🎓 Cambodia Higher Education Forum | Technical & Logistics |
-| 💼 National Career & Productivity Fair | Technical & Logistics |
-| 🏅 National & Para-National Sports Events | Technical Support |
+```
+/*-------------------------------------------------------------*\
+||   [>>]   P R O J E C T S   --   SHIPPED  &  ACTIVE   [>>]    ||
+\*-------------------------------------------------------------*/
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=00FF88&center=true&vCenter=true&width=560&lines=%24+ls+-la+%7C+grep+'active'...+Loading+projects...;DasTern+|+DerLg+|+RayuOS+|+HybridCoffee+|+MathBot" alt="projects"/>
 
 </div>
 
-### 📈 Community Engagement
-- **Volunteer Leader** @ *My First Stock* (Financial Education Initiative)
-- Focus: Youth development & digital literacy
+<br/>
+
+```
+.================================================================.
+|  [+]  DasTern Healthcare          (Capstone & Startup)         |
+|       Role    : Full Stack Developer  |  Project Lead          |
+|       Period  : Oct 2025 -- Present                            |
+|       Desc    : Prescription --> Smart Medicine Reminders      |
+|                 Powered by  AI-OCR + LLM                       |
+|       Stack   : Next.js | Flutter | PostgreSQL | Docker        |
+|                 Tesseract OCR | AI-LLM                         |
+'================================================================'
+```
+
+```
+.================================================================.
+|  >->  DerLg                        (Startup)                   |
+|       Role    : Full Stack Developer  |  Project Lead          |
+|       Period  : May 2025 -- Present                            |
+|       Desc    : Describe your mood => AI books your trip       |
+|       Stack   : Next.js | MySQL | Docker | VPS | AI-Llama      |
+'================================================================'
+```
+
+```
+.================================================================.
+|  [os] RayuOS -- Self Image    (Open Source | Contributors OK)  |
+|       Role    : Owner & Developer                              |
+|       Period  : Jan 2025 -- Present                            |
+|       Desc    : Custom Linux OS w/ personalized cmd prompt     |
+|                 Built from scratch at kernel level             |
+|       Stack   : C | Shell Scripting | Linux Kernel | Debian    |
+'================================================================'
+```
+
+```
+.================================================================.
+|  c[_] HybridCoffee            (School Project -- Year 2)       |
+|       Role    : Full Stack Developer  |  Project Lead          |
+|       Period  : Jan 2025 -- Mar 2025                           |
+|       Desc    : Digital coffee ordering system on the cloud    |
+|       Stack   : React.js | Node.js | MySQL | Digital Ocean     |
+'================================================================'
+```
+
+```
+.================================================================.
+|  [^_^] Telegram MathBot AI            (Open Source)            |
+|        Role    : AI Bot Developer                              |
+|        Period  : Mar 2025 -- Present                           |
+|        Desc    : Solves math problems + reads PDF functions    |
+|        Stack   : Python | DeepSeek API | MongoDB               |
+'================================================================'
+```
 
 ---
 
-## 🎯 Vision & Goals
+<div align="center">
+
+```
+/*-------------------------------------------------------------*\
+||   [=/=]   T E C H   S T A C K   &   A R S E N A L   [=/=]   ||
+\*-------------------------------------------------------------*/
+```
+
+</div>
+
+<div align="center">
+
+**--[ [pc] Languages ]--**
+
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+**--[ [~*~] Frontend & Mobile ]--**
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**--[ (*) Backend ]--**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+**--[ [db] Databases & DevOps ]--**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+</div>
+
+```
+SKILL PROFICIENCY  ::  $ rayu --skills --verbose
++-------------------------------------------------+---------+------+
+| DOMAIN                                          | BAR     | LVL  |
++-------------------------------------------------+---------+------+
+| Backend    (Node.js / Next.js / Nest.js)        | [####.] | 9/10 |
+| Frontend   (React / Vue / Flutter)              | [####o] | 8/10 |
+| Languages  (C / C++ / JS / Java / Dart)         | [####o] | 8/10 |
+| Databases  (MySQL / Postgres / MongoDB)         | [####o] | 8/10 |
+| DevOps     (Digital Ocean / IaaS)               | [###.o] | 7/10 |
++-------------------------------------------------+---------+------+
+  Legend:  # = filled   . = half   o = open
+```
+
+---
+
+<div align="center">
+
+```
+/*-------------------------------------------------------------*\
+||   [@]   V O L U N T E E R   &   I M P A C T   [@]         ||
+\*-------------------------------------------------------------*/
+```
+
+</div>
+
+<table>
+<tr>
+<td>
+
+```
+(mic) EVENTS & FORUMS
+|
++--[ |=| ] Digital Government Forum ........... Dec 2023
+|          Role: Front Desk Info Provider
+|
++--[ [pc] ] Next-Gen Engagement Program ........ Oct 2023
+|           Role: C++ Trainer (next-gen devs)
+|
++--[ [==] ] Cambodia Higher Education Forum .... Feb 2025
+|           Role: In Charge of Logistics
+|
++--[ [##] ] National Career & Productivity Fair. Mar 2025
+|           Role: Team Facilitator
+|
++--[ /o\ ] Nat. & Para-Nat. Sports Events ...... Mar 2025
+            Role: Performance & Technical Support
+```
+
+</td>
+<td>
+
+```
+{=} TEACHING & LEADERSHIP
+|
++--[ [pc] ] Khoding-Hero  --  ICT Trainer
+|            Siemreap, Oct - Nov 2024
+|            >> Taught ICT to local students
+|
++--[ /^ ] Lead Volunteer @ My First Stock
+|          Financial Education, Mar 2024
+|          >> Youth financial literacy drive
+|
++--[ 123 ] Math Tutor
+|           Grades 4 & 8
+|
++--[ (o) ] Youth Dev & Digital Literacy
+            Ongoing community involvement
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+```
+/*-------------------------------------------------------------*\
+||   [%%]   G I T H U B   S T A T S   [%%]                   ||
+\*-------------------------------------------------------------*/
+```
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Choeng-Rayu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choeng-Rayu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Choeng-Rayu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Choeng-Rayu&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+/*-------------------------------------------------------------*\
+||   (o)   L A N G U A G E S   S P O K E N   (o)             ||
+\*-------------------------------------------------------------*/
+```
+
+</div>
+
+```
++-------------------------+------------------+-------------+
+|  LANGUAGE               |  PROFICIENCY     |  FLAG       |
++-------------------------+------------------+-------------+
+|  Khmer                  |  Native          |  [KH]       |
+|  English                |  Good            |  [EN]       |
+|  Chinese (Mandarin)     |  Beginner        |  [CN]       |
++-------------------------+------------------+-------------+
+```
+
+---
+
+<div align="center">
+
+```
+/*-------------------------------------------------------------*\
+||   (x)-->   V I S I O N   &   G O A L S   (x)-->           ||
+\*-------------------------------------------------------------*/
+```
+
+</div>
 
 ```typescript
-interface Goals {
-  personal: string[];
-  community: string[];
-  professional: string[];
-}
+// $ cat vision.ts
 
-const myGoals: Goals = {
-  personal: [
-    "Use education to uplift my family",
-    "Build financial independence through technology"
+const CHOENG_RAYU = {
+
+  mission : "Turn Cambodia's real problems into practical digital solutions",
+
+  currently_building : {
+    "[+]  DasTern" : "AI Healthcare -- Prescription Reminder System",
+    ">->  DerLg"   : "Mood-Based AI Trip Booking Platform",
+    "[os] RayuOS"  : "Custom Linux OS built from kernel level",
+  },
+
+  goals : {
+    personal     : [ "Uplift my family through education & technology" ],
+    community    : [ "Empower Cambodian youth with digital skills"     ],
+    professional : [ "Build scalable startups in health, travel & fintech" ],
+  },
+
+  soft_skills  : [
+    "Problem-solving & Ideate",
+    "Effective Communication",
+    "Proactive & Teamwork",
+    "Using AI & Research",
   ],
-  community: [
-    "Build technology that solves Cambodian problems",
-    "Support youth development & digital literacy"
-  ],
-  professional: [
-    "Grow startups in tech & tourism",
-    "Create scalable, impactful digital solutions"
-  ]
+
+  philosophy   : "Consistency beats talent.  Impact beats theory.",
+  signature    : "( :-) )  -- Choeng Rayu",
+
 };
 ```
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Rayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
 <div align="center">
 
-[![Phone](https://img.shields.io/badge/Phone-096_99_83_479-green?style=for-the-badge&logo=whatsapp)](tel:+85596998479)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/YOUR_USERNAME)
+```
+/*-------------------------------------------------------------*\
+||   [@]-->   L E T ' S   C O N N E C T   <--[@]             ||
+\*-------------------------------------------------------------*/
+```
 
-</div>
+[![(tel)](https://img.shields.io/badge/(tel)-+855_96_983_479-25D366?style=for-the-badge&labelColor=0d1117)](tel:+85596983479)
+[![[@]](https://img.shields.io/badge/%5B%40%5D-choengray307%40gmail.com-EA4335?style=for-the-badge&labelColor=0d1117)](mailto:choengray307@gmail.com)
+[![[www]](https://img.shields.io/badge/%5Bwww%5D-rayu--choeng.tech-00d4ff?style=for-the-badge&labelColor=0d1117)](https://www.rayu-choeng.tech)
+[![[>>]](https://img.shields.io/badge/%5B%3E%3E%5D-@President__Alien-2CA5E0?style=for-the-badge&labelColor=0d1117)](https://t.me/President_Alien)
 
 ```yaml
-status: "Open to internships, collaborations, and meaningful projects"
-location: "Cambodia"
-timezone: "ICT (UTC+7)"
-response_time: "Usually within 24 hours"
-```
-
----
-
-## 💭 Philosophy
-
-<div align="center">
-
-> ### ⭐ *"Consistency beats talent. Impact beats theory."*
-> 
-> *Let's build something meaningful together.*
-
-```
-  ____                _   _                                             __       _ 
- |  _ \              | | | |                                           / _|     | |
- | |_) |_   _  ____ _| |_| |__     ___  ___  _ __ ___   ___ _   ___ _| |_  _  _| |
- |  _ <| | | ||_  /| | __| '_ \   / __|/ _ \| '_ ` _ \ / _ \ |  | | | |  _|| | | |
- | |_) | |_| | / / | | |_| | | |  \__ \ (_) | | | | | |  __/ |_ | |_| | |_ | |_| |
- |____/ \__,_|/___|_|\__|_| |_|  |___/\___/|_| |_| |_|\___|\__| \__,_|_|  \__,_|
-                                                                                   
+# $ rayu --contact-info
+status        : "Open to internships | collaborations | meaningful projects"
+location      : "Porsentchey, Phnom Penh, Cambodia [KH]"
+timezone      : "ICT (UTC+7)"
+response_time : "Usually within 24 hours"
+approach      : "Show me the problem -- I'll build the solution  :-)"
 ```
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 
-### 🔥 *"From challenges come opportunities. From code comes change."* 🔥
+```
++=========================================================+
+|                                                         |
+|    "Consistency beats talent.                           |
+|            Impact beats theory."                        |
+|                                                         |
+|    ~!~  Built with passion in Cambodia [KH]  ~!~        |
+|                                                         |
+|    (c) Choeng Rayu  |  github.com/Choeng-Rayu           |
+|                                                         |
++=========================================================+
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=for-the-badge)
-
-**⚡ Built with passion in Cambodia 🇰🇭**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0d2137,100:0d1117&height=130&section=footer&text=~!~+CHOENG+RAYU+~!~&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlignY=65&desc=S.E.+Student+%7C+Flutter+Developer+%7C+AI+Builder+%7C+%5BKH%5D&descAlignY=90&descColor=a0c4ff&descSize=13"/>
 
 </div>
