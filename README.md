@@ -73,7 +73,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Choeng-Rayu&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/(-v-)-Seeking_Flutter_Internship-00ff41?style=for-the-badge&labelColor=0d1117)
-![DOB](https://img.shields.io/badge/born-Mar_27_2005-ff9f43?style=for-the-badge&labelColor=0d1117)
+<!-- ![DOB](https://img.shields.io/badge/born-Mar_27_2005-ff9f43?style=for-the-badge&labelColor=0d1117) -->
 
 </div>
 
